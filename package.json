@@ -1,5 +1,5 @@
 {
-  "name": "@tinybox/js-linter",
+  "name": "@tinybox/js-lint",
   "version": "0.1.0",
   "description": "",
   "main": "./bin/index.js",
