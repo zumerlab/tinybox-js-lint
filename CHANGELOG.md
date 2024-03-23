@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. 
 
-#### [v0.1.0](https://github.com/zumerlab/tinybox-js-lint/compare/v0.1.0...v0.1.0)
+#### [v0.1.1](https://github.com/zumerlab/tinybox-js-lint/compare/v0.1.1...v0.1.1)
+
+#### [v0.1.1](https://github.com/zumerlab/tinybox-js-lint/compare/v0.1.0...v0.1.1)
+
+> 23 March 2024
+
+- Bumped version [`a593f9d`](https://github.com/zumerlab/tinybox-js-lint/commit/a593f9d53d0c37a5fa6f97281ec617bc74d620e4)
+- chore change name [`c2ff57e`](https://github.com/zumerlab/tinybox-js-lint/commit/c2ff57eb92a3e71ec18acbbb04582a129ab11fd9)
 
 #### v0.1.0
 
