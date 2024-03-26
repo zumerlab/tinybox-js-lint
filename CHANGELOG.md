@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. 
 
+#### [v0.1.2](https://github.com/zumerlab/zumerbox-js-lint/compare/v0.1.2...v0.1.2)
+
+- Bumped version [`6a77364`](https://github.com/zumerlab/zumerbox-js-lint/commit/6a77364ca61da5c8e4a0de3879cab4b0b1a2b4c6)
+
 #### [v0.1.2](https://github.com/zumerlab/zumerbox-js-lint/compare/v0.1.1...v0.1.2)
 
 > 25 March 2024
