@@ -2,6 +2,8 @@
 
 A tool for linting JavaScript files to catch errors and enforce coding standards.
 
+Refer to the [ZumerBox bundle](https://github.com/zumerlab/zumerbox) for more information and tools.
+
 ## Installation
 
 ```bash
@@ -14,4 +16,11 @@ npm install @zumerbox/js-lint --save-dev
 npx @zumerbox/js-lint
 ```
 
-Refer to the [ZumerBox bundle](https://github.com/zumerlab/zumerbox) for more information.
+## Options
+
+By default ESlint is instructed to perform a check without making any changes to the files. To fix any  issues run `@zumerbox/js-lint` again with the `--fix` argument to fix js.
+
+## Credits
+
+This tool is powered by ESlint (https://eslint.org)
+
